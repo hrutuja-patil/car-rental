@@ -33,4 +33,3 @@ Admin Login and Password : `admin` - `password`
 
 
 ### Author
-[@iamareebjamal](https://github.com/iamareebjamal)
